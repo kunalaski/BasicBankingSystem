@@ -45,13 +45,7 @@ INSERT INTO `users` ( `user_name`, `email`, `user_credits`) VALUES
 ('Jade Corbin', 'jadecorbin23l@gmail.com', 23423),
 ('Anna De Armas', 'anadearmas69x@gmail.com', 91040),
 ('Jessie Pinkman', 'jessiepinkman1269@hotmail.com', 126900),
-('Walter White', 'walterwhite23k@gmail.com', 88949),
-('Hannibal Lecter', 'hanniballector23@gmail.com', 51072), 
-('Davy Jones', 'davyjines87@gmail.com', 109372), 
-('Harvey Dent', 'harvydent@gmail.com', 84850), 
-('Son Goku', 'songuoku12@gmail.com', 51200), 
-('Itadoro Yiuj', 'itadoroY23@gmail.com', 60000), 
-('Ryomen Sukuna', 'ryomensukuna123@gmail.com', 53003);
+('Walter White', 'walterwhite23k@gmail.com', 88949);
 
 
 Select*from users;
