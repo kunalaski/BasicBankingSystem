@@ -41,7 +41,7 @@ ob_end_flush();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Basic Banking System</title>
+	<title>TSF Bank</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">	
   <link rel = "icon" href = "./images/inr.png" type = "image/x-icon">

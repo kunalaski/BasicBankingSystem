@@ -10,7 +10,7 @@ ob_end_flush();
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic Banking System</title>
+    <title>TSF Bank</title>
     <link rel = "icon" href = "./images/inr.png" type = "image/x-icon">
     <!-- Bootstrap CSS -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
