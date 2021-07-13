@@ -146,7 +146,7 @@ ob_end_flush();
     <div class="carousel-inner" role="listbox">
       <div class="item active" style="align:center margin:auto">  
           <div class="carousel-caption">
-            <h1 style='font-size: 25px; color:#ceebcf'>The Spark Foundation Bank</h1>
+            <h1 style='font-size: 35px; color:#ceebcf'>The Spark Foundation Bank</h1>
             <h4>This is a demo web banking application for educational purposes</h4>
             <br><br><br><br><br><br><br><br><br><br>
           </div>
@@ -160,7 +160,7 @@ ob_end_flush();
         </div>
         <div class="item"> 
             <div class="carousel-caption">
-              <h1 style='font-size: 25px; color:#ceebcf'>Transaction History</h1>
+              <h1 style='font-size: 30px; color:#ceebcf'>Transaction History</h1>
               <a href="./history.php" class="square_btn">View Transactions</a>
               <br><br><br><br><br><br><br><br><br><br>
             </div>
