@@ -89,7 +89,7 @@ ob_end_flush();
       height: 100%;
     } 
     .item:nth-child(1) {
-      background: url('images/bg.jpg');
+      background: url('images/bank.png');
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
@@ -128,7 +128,7 @@ ob_end_flush();
   <div>
   <header class="header">
       <nav class="navbar navbar-expand-lg fixed-top py-3">
-        <div class="container"><a href="index.php" style='font-size: 25px; color:#ceebcf' class="navbar-brand text-uppercase font-weight-bold">Very Basic Bank</a>
+        <div class="container"><a href="index.php" style='font-size: 25px; color:#ceebcf' class="navbar-brand text-uppercase font-weight-bold">TSF Bank</a>
             <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
               <ul class="navbar-nav ml-auto">
@@ -146,23 +146,23 @@ ob_end_flush();
     <div class="carousel-inner" role="listbox">
       <div class="item active" style="align:center margin:auto">  
           <div class="carousel-caption">
-            <h1>A Very Basic Bank</h1>
+            <h1 style='font-size: 25px; color:#ceebcf'>The Spark Foundation Bank</h1>
             <h4>This is a demo web banking application for educational purposes</h4>
-            <br><br><br><br><br><br><br><br>
+            <br><br><br><br><br><br><br><br><br><br>
           </div>
         </div>
         <div class="item"> 
             <div class="carousel-caption">
-              <h1>Account Holders</h1>
+              <h1 style='font-size: 30px; color:#ceebcf'>Account Holders</h1>
               <a href="./users.php" class="square_btn">View Users</a>
-              <br><br><br><br><br><br><br><br>
+              <br><br><br><br><br><br><br><br><br><br>
             </div>
         </div>
         <div class="item"> 
             <div class="carousel-caption">
-              <h1>Transaction History</h1>
+              <h1 style='font-size: 25px; color:#ceebcf'>Transaction History</h1>
               <a href="./history.php" class="square_btn">View Transactions</a>
-              <br><br><br><br><br><br><br><br>
+              <br><br><br><br><br><br><br><br><br><br>
             </div>
           </div>
         </div>

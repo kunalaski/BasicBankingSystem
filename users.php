@@ -24,7 +24,7 @@ ob_end_flush();
 <body>
   <header class="header">
     <nav class="navbar navbar-expand-lg fixed-top py-3">
-      <div class="container"><a href="index.php" style='font-size: 25px; color: #ceebcf;'  class="navbar-brand text-uppercase font-weight-bold">Very Basic Bank</a>
+      <div class="container"><a href="index.php" style='font-size: 25px; color: #ceebcf;'  class="navbar-brand text-uppercase font-weight-bold">TSF Bank</a>
         <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>           
           <div id="navbarSupportedContent" class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
@@ -64,7 +64,7 @@ ob_end_flush();
                 <td style='font-size: 14px'><?php echo htmlentities($row['user_name']); ?> </td>
                 <td style='font-size: 14px'><?php echo htmlentities($row['email']); ?> </td>
                 <td style='font-size: 14px'>
-                  <a href="transaction.php?user_id=<?php echo $row['user_id']; ?>" style="color:white">View</a></td>
+                  <a href="transaction.php?user_id=<?php echo $row['user_id']; ?>" style="color:#5161ce">View Profile</a></td>
                 </td>
               </tr>
           <?php }} ?>
