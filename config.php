@@ -1,8 +1,8 @@
 <?php
 
-	$db_host='localhost';
-	$db_user='root';
-	$db_pass='';
+	$db_host='sql6.freemysqlhosting.net';
+	$db_user='sql6424870';
+	$db_pass='hWktF4FaMr';
 	$db_name='credit';
 
 	try {
