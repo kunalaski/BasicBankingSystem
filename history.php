@@ -11,6 +11,7 @@ ob_end_flush();
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Basic Banking System</title>
+  <link rel = "icon" href = "./images/inr.png" type = "image/x-icon">
   <link rel="icon" type="image/png" href="images/f%20small.jpg">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style/style.css">
