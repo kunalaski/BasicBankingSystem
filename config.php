@@ -1,6 +1,6 @@
 <?php
 
-	$db_host='sql6.freemysqlhosting.net	';
+	$db_host='sql6.freemysqlhosting.net';
 	$db_user='sql6426694';
 	$db_pass='Q9nNyFwrRa';
 	$db_name='sql6426694';
