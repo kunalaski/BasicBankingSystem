@@ -1,8 +1,8 @@
 <?php
 
 	$db_host='sql208.epizy.com';
-	$db_user='Kunal20k';
-	$db_pass='~bg|Ql?c@2\w^ujk';
+	$db_user='epiz_29190737';
+	$db_pass='Kunal20k';
 	$db_name='epiz_29190737_kunal	';
 
 	try {
