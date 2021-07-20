@@ -1,9 +1,9 @@
 <?php
 
-	$db_host='sql6.freemysqlhosting.net';
-	$db_user='sql6424870';
-	$db_pass='hWktF4FaMr';
-	$db_name='sql6424870';
+	$db_host='sql208.epizy.com';
+	$db_user='Kunal20k';
+	$db_pass='~bg|Ql?c@2\w^ujk';
+	$db_name='epiz_29190737_kunal	';
 
 	try {
 		$pdo= new PDO("mysql:host={$db_host};dbname={$db_name}",$db_user,$db_pass);
